@@ -1,6 +1,6 @@
 # Fairuz Raihan Ardion
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=800&color=00FF00&width=435&lines=Network+Enthusiast;Grab+a+coffee+and+start+learning;Virly+Anjani;" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=800&color=00FF00&width=435&lines=DevOps;Grab+a+coffee+and+start+learning;Virly+Anjani;" alt="Typing Animation" />
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXdpY3p5dG0wa21wZ2N6a2RuYzFzajN2eWU4d3RqdW5pbGxxeWZkbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/du3J7cZgI1A8M/giphy.gif" width="30" />
 
