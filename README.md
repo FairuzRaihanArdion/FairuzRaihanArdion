@@ -4,12 +4,15 @@
 
 ---
 
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
--Still Learning about CyberSecurity 
+### <img src="https://media1.tenor.com/m/-TUgzNlPmxEAAAAC/cat-typing.gif" width="35"> About Me
+
+<img src="https://media1.tenor.com/m/0eB5Fk2UhpkAAAAC/cat-hacker.gif" width="28" /> Still Learning about CyberSecurity  
+<img src="https://media1.tenor.com/m/RTpHf2i0DlMAAAAC/cat-coding.gif" width="28""> Focus on Network Pentesting & Web Security  
+<img src="https://media1.tenor.com/m/BLzB3LkbSkoAAAAC/cat-computer.gif" width="28" /> Daily driving Kali Linux
 
 ---
 
-## Tools & Technologies
+## <img src="https://media1.tenor.com/m/uYS4nNYHDMUAAAAC/cat-with-tools.gif" width="30"> Tools & Technologies
 
 <p align="left">
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
@@ -26,25 +29,28 @@
 
 ---
 
-## Social
+## <img src="https://media1.tenor.com/m/jgCIeodRAqMAAAAC/cat-wave.gif" width="30"> Social
 
 <p align="left">
   <a href="https://github.com/Fairuz-Ardion">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <!-- Add more socials here if needed -->
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R6CUNdUeQZcVcC8J/giphy.gif" width="50" />
-  <i><b>"Love ur self and someone u love"</b></i>
-  <img src="https://media.giphy.com/media/L1R6CUNdUeQZcVcC8J/giphy.gif" width="50" />
+  <img src="https://media1.tenor.com/m/0lGgGqEfkLIAAAAC/cat-love.gif" width="60" />
+  <br/>
+  <i><b>"Love yourself and someone you love"</b></i>
+  <br/>
+  <img src="https://media1.tenor.com/m/-hF8C2l_jN4AAAAC/cat-sleeping.gif" width="50" />
 </p>
 
 ---
 
 <p align="center">
+  <img src="https://media1.tenor.com/m/4N92Gr-g1-AAAAAC/cat-typing.gif" width="40" />
   <img src="https://komarev.com/ghpvc/?username=Fairuz-Ardion&label=Profile%20Views&color=00FF00&style=flat-square" />
+  <img src="https://media1.tenor.com/m/4N92Gr-g1-AAAAAC/cat-typing.gif" width="40" />
 </p>
