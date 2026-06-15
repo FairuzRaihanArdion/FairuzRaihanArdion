@@ -6,9 +6,9 @@
 
 ### <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="35"> About Me
 
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="28" /> Still Learning about CyberSecurity  
-<img src="https://media.giphy.com/media/3o7abB06u9bNzA8LC8/giphy.gif" width="28" /> Focus on Network Pentesting & Web Security  
-<img src="https://media.giphy.com/media/5xtDarmwsuR9s9xkB1G/giphy.gif" width="28" /> Daily driving Kali Linux
+<img src="https://files.catbox.moe/8g3q2k.gif" width="28" /> Still Learning about CyberSecurity  
+<img src="https://files.catbox.moe/n5kq8c.gif" width="28" /> Focus on Network Pentesting & Web Security  
+<img src="https://files.catbox.moe/tp4k9m.gif" width="28" /> Daily driving Kali Linux
 
 ---
 
