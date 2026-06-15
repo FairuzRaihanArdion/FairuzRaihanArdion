@@ -5,10 +5,10 @@
 ---
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
-
+~Still Learning about CyberSecurity 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 <p align="left">
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
@@ -47,7 +47,7 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/L1R6CUNdUeQZcVcC8J/giphy.gif" width="50" />
-  <i><b>"Still Training. Still Growing."</b></i>
+  <i><b>"Love ur self and someone u love"</b></i>
   <img src="https://media.giphy.com/media/L1R6CUNdUeQZcVcC8J/giphy.gif" width="50" />
 </p>
 
