@@ -37,15 +37,6 @@
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fairuz-Ardion&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&icon_color=00FF00&title_color=00FF00&text_color=FFFFFF" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fairuz-Ardion&theme=dark&hide_border=true&background=0D1117&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" width="48%" />
-</p>
-
----
-
 <p align="center">
   <img src="https://media.giphy.com/media/L1R6CUNdUeQZcVcC8J/giphy.gif" width="50" />
   <i><b>"Love ur self and someone u love"</b></i>
