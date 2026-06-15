@@ -5,7 +5,8 @@
 ---
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
-~Still Learning about CyberSecurity 
+-Still Learning about CyberSecurity 
+
 ---
 
 ## Tools & Technologies
