@@ -35,6 +35,6 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTh3dWg0M3AxNXMxb3M4Z3h3bGkxODN1aHR0cHM6Ly9tZWRpYS5naXBoeS5jb20vbWVkaWEvTDFNdzZJMTBkSHJlQkxQTk8wdy9naXBoeS5naWZmayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L1J6cUduWEFDd0YwRS9naXBoeS5naWY.gif" width="40" />
-  <i>"Still Training"</i>
+  <i>"Still Learning"</i>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTh3dWg0M3AxNXMxb3M4Z3h3bGkxODN1aHR0cHM6Ly9tZWRpYS5naXBoeS5jb20vbWVkaWEvTDFNdzZJMTBkSHJlQkxQTk8wdy9naXBoeS5naWZmayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L1J6cUduWEFDd0YwRS9naXBoeS5naWY.gif" width="40" />
 </p>
