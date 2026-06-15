@@ -6,11 +6,6 @@
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
 
-- 🔐 Passionate about **Cybersecurity & Ethical Hacking**
-- 🐧 Daily driving **Kali Linux**
-- 📚 Currently learning: **Network Pentesting**, **Web Security**, **CTF challenges**
-- ☕ “Grab a coffee and start learning”
-
 ---
 
 ## 🛠️ Tools & Technologies
@@ -30,7 +25,7 @@
 
 ---
 
-## 🌐 Social
+## Social
 
 <p align="left">
   <a href="https://github.com/Fairuz-Ardion">
@@ -41,7 +36,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Fairuz-Ardion&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&icon_color=00FF00&title_color=00FF00&text_color=FFFFFF" width="48%" />
