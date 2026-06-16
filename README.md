@@ -1,6 +1,6 @@
 # Fairuz Raihan Ardion
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=800&color=00FF00&width=435&lines=DevOps+Enthusiast;Repeat:+Learning+and+Learning;Virly+Anjani;" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=800&color=FF2600&width=435&lines=DevOps+Enthusiast;Repeat:+Learning+and+Learning;Virly+Anjani;" alt="Typing Animation" />
 
 ---
 ## Tools & Tech
