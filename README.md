@@ -5,9 +5,7 @@
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXdpY3p5dG0wa21wZ2N6a2RuYzFzajN2eWU4d3RqdW5pbGxxeWZkbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/du3J7cZgI1A8M/giphy.gif" width="30" />
 
 ---
-
 ## Tools & Tech
-
 <p>
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
