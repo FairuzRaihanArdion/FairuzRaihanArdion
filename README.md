@@ -22,5 +22,5 @@ DevOps & Cybersecurity Enthusiast
 ### Best Regards,
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHFwZmxrYnNsZno4djFocm4zaDI0NTNnbG16NjBuY3oxYWVwZDRzNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UDORIcubjYvIBAYTe1/giphy.gif" alt="CuteCat " />
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHFwZmxrYnNsZno4djFocm4zaDI0NTNnbG16NjBuY3oxYWVwZDRzNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UDORIcubjYvIBAYTe1/giphy.gif" alt="CuteCat " />
 </p>
