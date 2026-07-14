@@ -22,5 +22,5 @@ DevOps & Cybersecurity Enthusiast
 ### GitHub Stats
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3FvNnVwdW44dnhqcm9mMGVmaHpjZ3p5YW80Mm9udm5hZnQ5dTRpZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cHyUbZOg/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExazg1ZndzZjQ3NWthdDR2dWN0ODhtcmRiOW1nZmZxajM2MXBiYzNybSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GuDU8r5CnUoYtbS2CR/giphy.gif)" width="300" alt="Cute Bongo Cat Typing" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExazg1ZndzZjQ3NWthdDR2dWN0ODhtcmRiOW1nZmZxajM2MXBiYzNybSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GuDU8r5CnUoYtbS2CR/giphy.gif" width="300" alt="Cute Bongo Cat Typing" />
 </p>
