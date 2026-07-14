@@ -1,19 +1,19 @@
 # Fairuz Raihan Ardion
-DevOps Enthusiast
+DevOps & Cybersecurity Enthusiast
 
 ---
 
 ### About Me
-- Currently working on: Automating security configurations and server hardening.
-- Learning journey: Deep diving into DevSecOps pipelines and Cloud Security.
-- Ask me about: Bash scripting, Kali Linux, Docker, or basic pentesting.
-- How to reach me: [LinkedIn](https://linkedin.com/in/USERNAME_KAMU) | [Email](mailto:EMAIL_KAMU@gmail.com)
+- **Education:** Informatics Engineering Student (Freshman).
+- **Currently exploring:** The basics of IT, Quantum Computing, and secure systems.
+- **Learning journey:** Deep diving into DevSecOps pipelines, Cloud Security, and Linux environments.
+- **Ask me about:** Bash scripting, Kali Linux, Docker, or basic pentesting.
 
 ---
 
 ### Languages and Tools
 
-- **OS and Scripting:** `Bash`, `Python`, `JavaScript`, `Linux`
+- **OS and Scripting:** `Kali Linux`, `Bash`, `Python`, `JavaScript`, `Linux`
 - **DevOps and Databases:** `Docker`, `Git`, `SQL`
 - **Security and Analysis:** `Nmap`, `Wireshark`, `Metasploit`
 
