@@ -1,5 +1,5 @@
 # Fairuz Raihan Ardion
-DevOps and Cybersecurity Enthusiast
+DevOps Enthusiast
 
 ---
 
@@ -13,7 +13,7 @@ DevOps and Cybersecurity Enthusiast
 
 ### Languages and Tools
 
-- **OS and Scripting:** `Kali Linux`, `Ubuntu`, `Bash`, `Python`, `JavaScript`
+- **OS and Scripting:** `Kali Linux`, `Bash`, `Python`, `JavaScript`, `Linux`
 - **DevOps and Databases:** `Docker`, `Git`, `SQL`
 - **Security and Analysis:** `Nmap`, `Wireshark`, `Metasploit`
 
