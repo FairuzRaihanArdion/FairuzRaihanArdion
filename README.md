@@ -19,7 +19,7 @@ DevOps & Cybersecurity Enthusiast
 
 ---
 
-### GitHub Stats
+### Best Regards,
 
 <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExazg1ZndzZjQ3NWthdDR2dWN0ODhtcmRiOW1nZmZxajM2MXBiYzNybSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GuDU8r5CnUoYtbS2CR/giphy.gif" width="300" alt="Cute Bongo Cat Typing" />
