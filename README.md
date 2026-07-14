@@ -1,38 +1,36 @@
-# Fairuz Raihan Ardion 👋
+<div align="center">
+    <!-- Ganti URL gif di bawah dengan gif favorit kamu jika ada -->
+    <img width=300 src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3pjcXoxbHhpa2FmdHlqZXB4b3hha2F0cm92ajd3c2NidXZtZm44NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y3Frv9FHC8L5K/giphy.gif" />    
+    <br/>
+    <br/>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=2000&color=F7DF1E&center=true&width=600&height=50&lines=Greetings%2C+wanderer!;I'm+Fairuz+Raihan+Ardion!;DevOps+%26+Security+Enthusiast;" alt="Typing SVG" /></a>
+</div>
 
-<p align="left">
-  <a href="https://linkedin.com/in/USERNAME_KAMU"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:EMAIL_KAMU@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
-
-An aspiring **DevOps & Cybersecurity Enthusiast** passionate about automation, infrastructure security, and systems optimization. I focus on building secure, efficient, and scalable deployment pipelines.
-
----
-
-## 🛠️ Tech Stack & Skills
-
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **OS & Scripting** | ![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| **DevOps & Database** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
-| **Security & Pentest**| ![Nmap](https://img.shields.io/badge/-Nmap-4682B4?style=flat-square&logo=nmap&logoColor=white) ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white) ![Metasploit](https://img.shields.io/badge/-Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white) |
+<div align="center">
+    <!-- Ganti USERNAME_KAMU dengan username LinkedIn & Email asli -->
+    <a href="https://linkedin.com/in/USERNAME_KAMU"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="mailto:EMAIL_KAMU@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</div>
 
 ---
 
-## 📈 GitHub Statistics
+## 👻 A little about me... 
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=FairuzRaihanArdion&show_icons=true&theme=transparent&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FairuzRaihanArdion&layout=compact&theme=transparent&hide_border=true" height="150" />
-</p>
+I am an aspiring **DevOps & Cybersecurity Enthusiast** with a passion for infrastructure automation, system security, and scripting. My goals are always geared toward optimization, robust pipelines, and continuous self-improvement in the tech space. 
 
----
+Currently building open-source automation tools, exploring secure development practices, and expanding my knowledge of system reliability.
 
-<details>
-<summary><b>🏆 Achievements & Certifications (Click to expand)</b></summary>
-<br>
-
-*(Jika nanti kamu punya sertifikat, taruh daftarnya di sini agar profil utama tetap bersih)*
-*   **Sertifikat A** - Penerbit (Tahun)
-*   **Sertifikat B** - Penerbit (Tahun)
-</details>
+```javascript
+const FAIRUZ_RAIHAN = {
+    OS: ["Kali Linux", "Ubuntu"],
+    languages: {
+        scripting: ["Python", "Bash"],
+        others: ["JavaScript", "SQL"]
+    },
+    technologies: {
+        containers: ["Docker"],
+        versionControl: ["Git"],
+        securityTools: ["Nmap", "Wireshark", "Metasploit"]
+    },
+    philosophy: "Repeat: Learning and Learning"
+};
