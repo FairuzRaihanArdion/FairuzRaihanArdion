@@ -22,6 +22,5 @@ DevOps & Cybersecurity Enthusiast
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FairuzRaihanArdion&show_icons=true&theme=github_dark" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FairuzRaihanArdion&layout=compact&theme=github_dark" width="48%" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3FvNnVwdW44dnhqcm9mMGVmaHpjZ3p5YW80Mm9udm5hZnQ5dTRpZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cHyUbZOg/giphy.gif" width="300" alt="Cute Bongo Cat Typing" />
 </p>
