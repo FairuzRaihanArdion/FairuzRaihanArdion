@@ -20,5 +20,5 @@ DevOps & Cybersecurity Enthusiast
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/UDORIcubjYvIBAYTe1/giphy.gif" width="250" alt="CuteCat" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2o5ZnNjazFvdWsxcHF1c3R0MWdrbHRpZDFleDAybW9hMHdpbHBwZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y4nk5bgwpWL6T5Ax9y/giphy.gif" width="250" alt="CuteCat" />
 </p>
