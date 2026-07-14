@@ -12,7 +12,7 @@ DevOps & Cybersecurity Enthusiast
 
 ### Languages and Tools
 
-- **OS and Scripting:** `Linux (Ubuntu/Debian)`, `Kali Linux`, `Bash`, `Python`, `JavaScript`, `TypeScript`, `PowerShell`
+- **OS and Scripting:** `Linux`, `Kali Linux`, `Bash`, `Python`, `JavaScript`, `TypeScript`, `PowerShell`
 - **DevOps, Cloud, and Databases:** `Docker`, `Git`, `GitHub Actions` (CI/CD), `SQL`, `PostgreSQL`, `MySQL`
 
 ---
