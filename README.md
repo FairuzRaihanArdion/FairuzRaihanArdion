@@ -12,9 +12,8 @@ DevOps & Cybersecurity Enthusiast
 
 ### Languages and Tools
 
-- **OS and Scripting:** `Bash`, `Python`, `JavaScript`, `Linux`
-- **DevOps and Databases:** `Docker`, `Git`, `SQL`
-- **Security and Analysis:** `Nmap`, `Wireshark`, `Metasploit`
+- **OS and Scripting:** `Linux (Ubuntu/Debian)`, `Kali Linux`, `Bash`, `Python`, `JavaScript`, `TypeScript`, `PowerShell`
+- **DevOps, Cloud, and Databases:** `Docker`, `Git`, `GitHub Actions` (CI/CD), `SQL`, `PostgreSQL`, `MySQL`
 
 ---
 
