@@ -7,7 +7,6 @@ DevOps & Cybersecurity Enthusiast
 -  **Education:** Informatics Engineering Student (Freshman).
 -  **Currently exploring:** The basics of IT, Quantum Computing, and secure systems.
 -  **Learning journey:** Deep diving into DevSecOps pipelines, Cloud Security, and Linux environments.
--  **Ask me about:** Bash scripting, Kali Linux, Docker, or basic pentesting.
 
 ---
 
