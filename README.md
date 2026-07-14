@@ -1,67 +1,52 @@
-<div align="center">
+# Fairuz Raihan Ardion 👋
+**DevOps & Cybersecurity Enthusiast**
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=460&lines=Fairuz+Raihan+Ardion;Python+%C2%B7+TypeScript+%C2%B7+Bash+Scripting" alt="Typing SVG" />
+<p align="left">
+  <a href="https://linkedin.com/in/USERNAME_KAMU"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:EMAIL_KAMU@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
-</div>
+---
 
-<br/>
+## 👤 About Me
+I am a focused **DevOps & Cybersecurity Enthusiast** passionate about automating workflows, securing infrastructure, and building robust deployment pipelines. I love solving system challenges and implementing secure-by-design practices.
 
-## About
+- 🚀 **Currently learning:** CI/CD Pipelines, Cloud Security, and Infrastructure as Code (IaC).
+- 🛡️ **Focal areas:** DevSecOps, System Hardening, and Network Security.
 
-I build backend services, automation tooling, and scripts that keep things running reliably in the background. I care more about clean, maintainable code than flashy one-off demos.
+---
 
-- 🔭 Currently working on backend & automation projects
-- 🌱 Sharpening system design and scripting workflows
-- 🛠 Comfortable moving between Python, TypeScript, and shell environments
+## 🛠️ Tech Stack & Tools
 
-<br/>
+### 💻 OS & Scripting
+![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-## Tech Stack
+### ⚙️ Infrastructure & Databases
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-<div align="center">
+### 🛡️ Security & Analysis
+![Nmap](https://img.shields.io/badge/-Nmap-4682B4?style=flat-square&logo=nmap&logoColor=white)
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/-Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+---
 
-</div>
+## 📁 Featured Projects
+> *Seksi ini opsional tapi sangat krusial buat DevOps/Security. Kamu bisa hapus/ganti isinya dengan repositori terbaikmu nanti.*
 
-<br/>
+* ⚙️ [**Automated-Hardening-Script**](https://github.com/FairuzRaihanArdion) - Bash script to automate basic OS security hardening on Ubuntu servers.
+* 🛡️ [**Secure-Docker-Deployment**](https://github.com/FairuzRaihanArdion) - Configuration template for deploying containerized web applications with secure headers and SSL.
 
-## GitHub Stats
+---
 
-<div align="center">
+## 📊 GitHub Insights
 
-<img src="https://github-readme-stats.vercel.app/api?username=FairuzRaihanArdion&show_icons=true&theme=default&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FairuzRaihanArdion&layout=compact&theme=default&hide_border=true" width="40%" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=FairuzRaihanArdion&theme=default&hide_border=true" width="60%" />
-
-</div>
-
-<br/>
-
-## Connect
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/FairuzRaihanArdion)
-<!-- Tambahin badge lain di sini kalau perlu, contoh:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](LINK_LINKEDIN_KAMU)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](LINK_IG_KAMU)
--->
-
-</div>
-
-<br/>
-
-<div align="center">
-<sub>Thanks for stopping by.</sub>
-</div>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=FairuzRaihanArdion&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FairuzRaihanArdion&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" height="150" />
+</p>
