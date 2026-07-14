@@ -13,7 +13,7 @@ DevOps Enthusiast
 
 ### Languages and Tools
 
-- **OS and Scripting:** `Kali Linux`, `Bash`, `Python`, `JavaScript`, `Linux`
+- **OS and Scripting:** `Bash`, `Python`, `JavaScript`, `Linux`
 - **DevOps and Databases:** `Docker`, `Git`, `SQL`
 - **Security and Analysis:** `Nmap`, `Wireshark`, `Metasploit`
 
