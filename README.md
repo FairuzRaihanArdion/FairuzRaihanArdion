@@ -4,7 +4,7 @@ DevOps & Cybersecurity Enthusiast
 ---
 
 ### About Me
--  **Education:** Informatics Engineering Student (Freshman).
+-  **Education:** Informatics Engineering Student.
 -  **Currently exploring:** The basics of IT, Quantum Computing, and secure systems.
 -  **Learning journey:** Deep diving into DevSecOps pipelines, Cloud Security, and Linux environments.
 
